@@ -1,1 +1,1 @@
-![header-amey-rupji](./images/background.png)
+![header-amey-rupji](https://ameyrupji.github.io/ameyrupji/images/background.png)
